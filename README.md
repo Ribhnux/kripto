@@ -22,12 +22,13 @@ Submit issue cantumkan link dan beserta deskripsi singkat, apabila materi tidak 
 
 ## :bookmark_tabs: Daftar Isi
 1. [Cryptography](#cryptography)
-2. [Blockchain](#blockchain)
+2. [Cryptocurrencies Technology](#cryptocurrencies-technology)
 
 ---
 
 ### Cryptography
 - [Khan Academy - Cryptography Dasar](https://www.khanacademy.org/computing/computer-science/cryptography)
 
-### Blockchain
-- [Coursera - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/lecture/rJ8KJ/a-simple-cryptocurrency)
+### Cryptocurrencies Technology
+- [Coursera - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/lecture/rJ8KJ/a-simple-cryptocurrency) - Membahas tentang teknologi cryptocurrencies dan teknologi blockchain, dilengkapi dengan cara membuat coin from scratch
+- [Udemy - Ethereum Master Class](https://www.udemy.com/ethereum-masterclass/) - Belajar tentang ethereum dan smart contract, dilengkapi dengan cara membuat token, ICO dan exchange.
