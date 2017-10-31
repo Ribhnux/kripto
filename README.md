@@ -1,6 +1,6 @@
 ![Kurikulum Blockchain](https://raw.githubusercontent.com/Ribhnux/blockchain/master/banner.png)
 
-# :ledger: Kurikulum Blockchain
+# :ledger: Kurikulum Kripto
 Blockchain adalah rangkaian "block" transaksi yang dicatat menggunakan cryptography dan terdistribusi secara peer-to-peer (p2p), setiap block mempunyai referensi "hash" yang memuat informasi tentang block sebelumnya. Teknologi blockchain sangat aman karena distribusinya melalui konsensus tidak terpusat (decentralized), berbeda dengan database pada server biasa.
 
 Distribusi blockchain pertama kali di rancang oleh entitas anonymous (bisa berupa personal atau group) yang menamakan dirinya Satoshi Nakamoto pada tahun 2008, dan diterapkan sebagai inti komponen pada uang digital yang dinamai Bitcoin pada tahun 2009.
