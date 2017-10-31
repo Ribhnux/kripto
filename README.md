@@ -16,7 +16,7 @@ Submit issue cantumkan link dan beserta deskripsi singkat, apabila materi tidak 
 
 ## :bookmark_tabs: Daftar Isi
 1. [Pengetahuan Dasar](#dasar)
-   - (Apa itu Blockchain?)(#apa-itu-blockchain)
+   - [Apa itu Blockchain?](#apa-itu-blockchain)
 1. [Cryptography](#cryptography)
 2. [Cryptocurrencies Technology](#cryptocurrencies-technology)
 
