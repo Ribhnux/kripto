@@ -8,7 +8,7 @@ Blockchain adalah teknologi masa depan karena menggunakan protokol p2p, dengan p
 Repositori ini bertujuan untuk mengedukasi para developer indonesia yang ingin belajar teknologi blockchain secara mendalam. Kami membutuhkan bantuan para developer untuk berkonstribusi ke repositori ini.
 
 ### Cara berkonstribusi
-Submit issue cantumkan link dan beserta deskripsi singkat, apabila materi tidak sesuai, kami akan menutup issue, dan link yang Anda submit tidak akan ditampilkan.
+Submit issue cantumkan link dan beserta deskripsi singkat, apabila materi tidak sesuai, kami akan menutup issue, dan link yang Anda submit tidak akan ditampilkan. Link berupa PDF atau Referensi ataupun kursus online telah direview dan dibaca oleh para maintainers.
 
 #### Constributors
 
@@ -19,12 +19,13 @@ Submit issue cantumkan link dan beserta deskripsi singkat, apabila materi tidak 
 ---
 
 ## Daftar Isi
-1. [Dasar](#dasar)
-  - [Cryptography](#cryptography)
+1. [Cryptography](#cryptography)
 2. [Blockchain](#blockchain)
 
-### Dasar
-#### Cryptography
-[https://www.khanacademy.org/computing/computer-science/cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) (Kursus Online)
+---
+
+### Cryptography
+- [Khan Academy - Cryptography Dasar](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ### Blockchain
+- [Coursera - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/lecture/rJ8KJ/a-simple-cryptocurrency)
