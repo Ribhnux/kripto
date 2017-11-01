@@ -33,5 +33,6 @@ Blockchain adalah teknologi masa depan karena menggunakan protokol p2p, dengan p
 - [Khan Academy - Cryptography Dasar](https://www.khanacademy.org/computing/computer-science/cryptography)
 
 ### Cryptocurrencies Technology
+- [Basic Blockchain](https://anders.com/blockchain/) Video dan Demo interaktif untuk belajar blockchain.
 - [Coursera - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency/lecture/rJ8KJ/a-simple-cryptocurrency) - Membahas tentang teknologi cryptocurrencies dan teknologi blockchain, dilengkapi dengan cara membuat coin from scratch
 - [Udemy - Ethereum Master Class](https://www.udemy.com/ethereum-masterclass/) - Belajar tentang ethereum dan smart contract, dilengkapi dengan cara membuat token, ICO dan exchange.
